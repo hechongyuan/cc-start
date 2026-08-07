@@ -1,0 +1,7 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 系统文件
+Thumbs.db
+Desktop.ini
